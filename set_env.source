@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=/home/hipper/ex_hipsolver_rocsolver_suitesparse/ex/extract_hipsolver_syevj/roc_syevj/rocsolver:/home/hipper/ex_hipsolver_rocsolver_suitesparse/local_d/hipsolver/lib
